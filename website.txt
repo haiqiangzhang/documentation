@@ -1,0 +1,2 @@
+http://source.android.com/devices/graphics/architecture.html // graphic 官方文档
+https://developer.android.com/guide/topics/graphics/hardware-accel.html // 硬件加速
